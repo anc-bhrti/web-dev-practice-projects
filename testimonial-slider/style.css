@@ -1,0 +1,21 @@
+.review-box{
+    /*margin: auto; width: 50% for keeping the review box at the center of width*/
+    margin:auto;
+    width: 50%;
+    background-color: #4d6bd6;
+    padding: 10px;  
+}
+
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(225, 229, 233);
+}
+
+.review{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(225, 229, 233);
+    font-weight: 100;
+}
