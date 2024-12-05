@@ -1,0 +1,21 @@
+form{
+    margin:auto;
+    width: 50%;
+}
+
+.calculator{
+    background-color: #f0f0f0;
+}
+
+.tip-per{
+    display: block;
+}
+
+.bill{
+    display: block;
+}
+
+button{
+    background-color: green;
+    color: aliceblue;
+}
