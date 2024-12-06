@@ -11,5 +11,5 @@ const btn=document.querySelector(".calculate-btn");
         //total is already the numerical value so we do not use parseFloat on it
         const total=(1+tip/100)*bill;
         const totalEl=document.querySelector(".total");
-        totalEl.innerHTML=total.toFixed(2);
+        totalEl.innerHTML=`Total: ${total.toFixed(2)}`;
 })

@@ -1,0 +1,27 @@
+form{
+    margin: auto;
+    width: 50%;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+.birthdate{
+text-align: center;
+}
+
+.calcAge-btn{
+    text-align: center;
+    background-color: green;
+    color: aliceblue;
+}
+
+.btn{
+    /*always remember display:flex and justify-content-center*/
+   display: flex;
+   justify-content: center;
+   margin: 10px;
+   padding: 10px;
+}
